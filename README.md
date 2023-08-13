@@ -1,1 +1,1 @@
-# RobinBinLuo.github.io
+This is the source code to Bin Luo's public academic website: https://AlanRobbin.github.io/. Feel free to clone this code for your own personal use.
